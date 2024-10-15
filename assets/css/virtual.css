@@ -1425,11 +1425,7 @@ a:hover, a:active {
     border-color: #6f42c1;
 }
 /* ============================================================================================================================= */
-.badge .badge-col
-{
-   
-    
-}
+
 .bge 
 {
     border: 3px solid #3f71f8;
@@ -1440,3 +1436,7 @@ a:hover, a:active {
     justify-content: center;
     align-items: center;
 }
+
+
+
+
